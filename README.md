@@ -291,6 +291,7 @@ The complaint analysis module processes customer complaints and provides automat
 ![Complaint Analysis 1](https://raw.githubusercontent.com/aswin-tech-01/customer-support-intelligence/main/screenshots/dashboard/Dashboard%20-%201.png)
 
 
+
 ---
 ### 💬 AI Support Assistant
 
