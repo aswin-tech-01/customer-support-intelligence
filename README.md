@@ -280,7 +280,7 @@ customer-support-intelligence/
 
 The SupportAI dashboard provides access to the major customer-support intelligence modules.
 
-![Main Dashboard](![Main Dashboard](screenshots/dashboard/Main%20Dashboard.png)
+![Main Dashboard](![Main Dashboard](![Main Dashboard](screenshots/dashboard/Main%20-%20Dashboard.png))
 )
 
 ---
