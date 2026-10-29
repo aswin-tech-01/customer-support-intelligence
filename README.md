@@ -280,7 +280,7 @@ customer-support-intelligence/
 
 The SupportAI dashboard provides access to the major customer-support intelligence modules.
 
-(screenshots/dashboard/Main%20-%20Dashboard.png))
+![Main Dashboard](screenshots/dashboard/Main%20-%20Dashboard.png)
 )
 
 ---
@@ -289,10 +289,10 @@ The SupportAI dashboard provides access to the major customer-support intelligen
 
 The complaint analysis module processes customer complaints and provides automated insights.
 
-(screenshots/dashboard/Dashboard%20-%201.png)
+![Dashboard 1](screenshots/dashboard/Dashboard%20-%201.png)
 )
 
-(screenshots/dashboard/Dashboard%20-%202.png)
+![Dashboard 2](screenshots/dashboard/Dashboard%20-%202.png)
 
 ---
 
