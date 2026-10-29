@@ -337,7 +337,7 @@ The escalation engine helps identify tickets that may require escalation.
 
 ![Escalation Engine 1](screenshots/Escalation%20-%20Engine/Escalation%20-%20Engine%20-%201.png)
 
-![Escalation Engine 2](https://raw.githubusercontent.com/aswin-tech-01/customer-support-intelligence/main/screenshots/Escalation%20-%20Engine/Escalation%20-%20Engine%20-%202%20.png))
+![Escalation Engine 2](https://raw.githubusercontent.com/aswin-tech-01/customer-support-intelligence/main/screenshots/Escalation%20-%20Engine/Escalation%20-%20Engine%20-%202%20.png)
 
 ---
 
