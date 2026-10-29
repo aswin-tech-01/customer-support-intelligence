@@ -1,0 +1,16 @@
+{"ts": "2026-10-28T07:42:43", "issue": "Account access", "priority": "Critical", "risk": "Critical", "score": 10}
+{"ts": "2026-10-28T07:43:16", "issue": "Refund request", "priority": "Medium", "risk": "Medium", "score": 5}
+{"ts": "2026-10-28T07:47:39", "issue": "Refund request", "priority": "Medium", "risk": "Medium", "score": 5}
+{"ts": "2026-10-28T07:49:54", "issue": "Refund request", "priority": "Medium", "risk": "Medium", "score": 5}
+{"ts": "2026-10-28T07:50:09", "issue": "Account access", "priority": "Critical", "risk": "High", "score": 6}
+{"ts": "2026-10-28T07:50:33", "issue": "Battery life", "priority": "Medium", "risk": "Medium", "score": 3}
+{"ts": "2026-10-28T07:50:45", "issue": "Account access", "priority": "Critical", "risk": "Critical", "score": 9}
+{"ts": "2026-10-28T07:51:24", "issue": "Delivery problem", "priority": "Medium", "risk": "Low", "score": 2}
+{"ts": "2026-10-28T07:51:38", "issue": "Cancellation request", "priority": "Medium", "risk": "Low", "score": 2}
+{"ts": "2026-10-28T07:51:55", "issue": "Payment issue", "priority": "Medium", "risk": "Medium", "score": 3}
+{"ts": "2026-10-28T07:52:05", "issue": "Product recommendation", "priority": "High", "risk": "Medium", "score": 3}
+{"ts": "2026-10-28T07:52:14", "issue": "Account access", "priority": "Critical", "risk": "Critical", "score": 10}
+{"ts": "2026-10-28T07:52:23", "issue": "Delivery problem", "priority": "Medium", "risk": "Low", "score": 2}
+{"ts": "2026-10-28T07:53:27", "issue": "Battery life", "priority": "Critical", "risk": "Critical", "score": 10}
+{"ts": "2026-10-28T07:53:31", "issue": "Battery life", "priority": "Critical", "risk": "Critical", "score": 10}
+{"ts": "2026-10-28T09:26:02", "issue": "Refund request", "priority": "Medium", "risk": "Medium", "score": 5}
