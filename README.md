@@ -288,6 +288,7 @@ The SupportAI dashboard provides access to the major customer-support intelligen
 
 The complaint analysis module processes customer complaints and provides automated insights.
 
+![Complaint Analysis 1](screenshots/dashboard/Dashboard%20-1%20.png)
 ![Complaint Analysis 2](screenshots/dashboard/Dashboard%20-%202.png)
 
 
