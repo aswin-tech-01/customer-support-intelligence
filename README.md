@@ -291,7 +291,7 @@ The complaint analysis module processes customer complaints and provides automat
 
 ![Dashboard 1](screenshots/dashboard/Dashboard%20-%201.png)
 
-![Dashboard 2](screenshots/dashboard/Dashboard%20-%202.png)
+![Dashboard 2](https://raw.githubusercontent.com/aswin-tech-01/customer-support-intelligence/main/screenshots/dashboard/Dashboard%20-%202.png)
 
 ---
 
