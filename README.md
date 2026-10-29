@@ -274,78 +274,69 @@ customer-support-intelligence/
 
 ---
 
-# 📸 Application Screenshots
+## 📸 Application Screenshots
 
-## 🏠 Main Dashboard
+### 🏠 Main Dashboard
 
 The SupportAI dashboard provides access to the major customer-support intelligence modules.
 
 ![Main Dashboard](screenshots/dashboard/Main%20-%20Dashboard.png)
-)
 
 ---
 
-## 📊 Complaint Analysis
+### 📊 Complaint Analysis
 
 The complaint analysis module processes customer complaints and provides automated insights.
 
-![Dashboard 1](screenshots/dashboard/Dashboard%20-%201.png)
+![Complaint Analysis 1](screenshots/dashboard/Dashboard%20-%201.png)
 
-![Dashboard 2](https://raw.githubusercontent.com/aswin-tech-01/customer-support-intelligence/main/screenshots/dashboard/Dashboard%20-%202.png)
-
----
-
-## 💬 AI Support Assistant
-
-The AI Support Assistant provides conversational support and helps users interact with the system naturally.
-
-![AI Support Assistant](<img width="1841" height="917" alt="Chatbot" src="https://github.com/user-attachments/assets/e318a779-07c1-43e8-b0b3-2b1faba7cce3" />
-)
+![Complaint Analysis 2](screenshots/dashboard/Dashboard%20-%202.png)
 
 ---
 
-## 🧠 ML Intelligence
+### 💬 AI Support Assistant
 
-The ML Intelligence module provides machine-learning-driven analysis of customer complaints.
+The AI chatbot helps users understand and resolve customer-support issues.
 
-![ML Intelligence 1](<img width="1850" height="907" alt="Machine - Intelligence - 1" src="https://github.com/user-attachments/assets/97490444-a5eb-4a1a-9462-f7e284a6bb2b" />
-)
-
-![ML Intelligence 2](<img width="1860" height="923" alt="Machine - Intelligence - 2" src="https://github.com/user-attachments/assets/0740b96a-c361-4cfe-8f66-badb7721035a" />
-)
-
-![ML Intelligence 3](<img width="1851" height="921" alt="Machine - Intelligence - 3" src="https://github.com/user-attachments/assets/f82cf0dc-d441-4673-ac2e-bd135cb09988" />
-)
+![AI Support Assistant](screenshots/Chatbot/Chatbot.png)
 
 ---
 
-## ⚡ Semantic Issue Detection
+### 🧠 Machine Learning Intelligence
 
-Semantic analysis identifies the underlying issue from the meaning of the customer's complaint.
+The machine learning module provides automated intelligence for customer-support tickets.
 
-![Semantic Issue Detection](<img width="1851" height="923" alt="Semantic - Issue - Prediction" src="https://github.com/user-attachments/assets/15636e15-d8ca-4cb2-8b6d-fc5149e52515" />
-)
+![Machine Learning Intelligence 1](screenshots/ml-intelligence/Machine%20-%20Intelligence%20-%201.png)
 
----
+![Machine Learning Intelligence 2](screenshots/ml-intelligence/Machine%20-%20Intelligence%20-%202.png)
 
-## 🎯 Priority Prediction
-
-The priority prediction module identifies the urgency of customer complaints and helps support teams prioritize cases.
-
-![Priority Prediction](<img width="1845" height="911" alt="Priority - prediction" src="https://github.com/user-attachments/assets/7c767fa2-8d79-49d3-83d2-1d5c32425c43" />
-)
+![Machine Learning Intelligence 3](screenshots/ml-intelligence/Machine%20-%20Intelligence%20-%203.png)
 
 ---
 
-## 🚨 Escalation Risk Engine
+### 🔎 Semantic Issue Detection
 
-The escalation engine evaluates complaint severity and determines whether a case requires immediate human intervention.
+The semantic issue detection module identifies issues based on the meaning of customer complaints.
 
-![Escalation Risk 1](<img width="1838" height="912" alt="Escalation - Engine - 1" src="https://github.com/user-attachments/assets/ee33f789-3cb5-4c21-b8f0-45db2e2db747" />
-)
+![Semantic Issue Detection](screenshots/Semantic%20-%20Issue/Semantic%20-%20Issue%20-%20Prediction.png)
 
-![Escalation Risk 2](<img width="1853" height="917" alt="Escalation - Engine - 2 " src="https://github.com/user-attachments/assets/e99b8ac4-11d4-4f2a-a27b-48387a3936e1" />
-)
+---
+
+### ⚡ Priority Prediction
+
+The priority prediction module estimates the priority of customer-support tickets.
+
+![Priority Prediction](screenshots/Priority%20-%20Prediction/Priority%20-%20prediction.png)
+
+---
+
+### 🚨 Escalation Risk Engine
+
+The escalation engine helps identify tickets that may require escalation.
+
+![Escalation Engine 1](screenshots/Escalation%20-%20Engine/Escalation%20-%20Engine%20-%201.png)
+
+![Escalation Engine 2](screenshots/Escalation%20-%20Engine/Escalation%20-%20Engine%20-%202.png)
 
 ---
 
