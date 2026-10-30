@@ -290,7 +290,7 @@ The complaint analysis module processes customer complaints and provides automat
 
 ![Complaint Analysis 1](screenshots/dashboard/Dashboard%20-1%20.png)
 ![Complaint Analysis 2](screenshots/dashboard/Dashboard%20-%202.png)
-![Complaint Analysis 3](screenshots/dashboard/Complaint-Analysis-3.png)
+![Complaint Analysis 3](screenshots/dashboard/Dashboard%20-%203.png)
 
 
 
